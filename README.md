@@ -17,6 +17,6 @@
 
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pritampal29&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tapasi97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritampal29&show_icons=true&locale=en" alt="pritampal29" /></p> -->
