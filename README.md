@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tapasi Chatterjee</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
+<img align="right" alt="side-img" width="380" src="2150898496.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapasi97&label=Profile%20views&color=0e75b6&style=flat" alt="tapasi97" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://tapasi.netlify.app](https://tapasi.netlify.app)
