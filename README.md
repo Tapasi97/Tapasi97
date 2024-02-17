@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tapasi Chatterjee</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 <img align="right" alt="side-img" width="380" src="1708164634960.jpg">
 
